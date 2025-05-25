@@ -6,7 +6,7 @@ class DefaultCommand
 
     }
 }
-class AppComman
+class AppComma
 {
     public function execute($reqest)
     {
