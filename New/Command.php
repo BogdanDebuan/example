@@ -6,9 +6,9 @@ class DefaultCommand
 
     }
 }
-class AppCommand
+class AppComman
 {
-    public function execute($request)
+    public function execute($reqest)
     {
         echo "Hello";
     }
