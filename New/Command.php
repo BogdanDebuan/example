@@ -3,7 +3,7 @@ class DefaultCommand
 {
     public function execute()
     {
-        echo  "1.php";
+
     }
 }
 class AppCommand
