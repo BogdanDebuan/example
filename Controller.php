@@ -5,7 +5,6 @@ require "Config.php";
 require "HttRequest.php";
 require "Register.php";
 require "Helper.php";
-require "Parsexml.php";
     Class Controller
     {
         private $reg;
