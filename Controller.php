@@ -28,6 +28,5 @@ require "Parsexml.php";
             $request = $this->reg->getRequest();
             $cmd = new CommandResult();
             $cmd = $cmd->getCommand($request);
-            $cmd->execute($request);
         }
     }
